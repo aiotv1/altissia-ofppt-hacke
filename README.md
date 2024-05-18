@@ -13,7 +13,7 @@
 
 my website : https://oussamaidiken.framer.website/ID-iken
 
-https://github.com/aiotv1/Altesia-ofppt-hack/new/main
+
 
 This program performs automated steps
 So be careful while using!
@@ -25,4 +25,4 @@ If the app stops working, start it again and choose another exercise.
 
 my website: https://oussamaidiken.framer.website/ID-iken
 
-https://github.com/aiotv1/Altesia-ofppt-hack/new/main
+
